@@ -12,14 +12,11 @@
 -  노는 거, 먹는 거, 게임하는 거 좋아함
   
 <br/>
-<br/>
-
 
 # :label: Level
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
 
-<br/>
 <br/>
 
 # ⚒️Tech Stack⚒️
@@ -28,5 +25,4 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/i'm-starter-green"/>
 
-<br/>
 <br/>
