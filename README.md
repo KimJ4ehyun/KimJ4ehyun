@@ -1,3 +1,4 @@
+![춘식](https://user-images.githubusercontent.com/122425985/229136058-468e62e6-28b0-49b1-abac-27dc7b40c13b.gif)
 
 <br/>
 
