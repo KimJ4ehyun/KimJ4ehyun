@@ -14,5 +14,7 @@
   
 <br/>
 <br/>
-
 ---
+### :label: Level
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
