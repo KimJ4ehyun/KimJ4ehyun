@@ -29,4 +29,4 @@
 
 [![Naver Badge](https://img.shields.io/badge/Naver_email-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:niggaud@naver.com)
 
-[![Hits](https://github.com/KimJ4ehyun/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/KimJ4ehyun)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJ4ehyune&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
