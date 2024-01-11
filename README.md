@@ -27,3 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/i'm-starter-green"/>
 
 <br/>
+
+# :calling: Social
+
+[![Naver Badge](https://img.shields.io/badge/Naver_email-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:niggaud@naver.com)
