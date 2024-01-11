@@ -1,6 +1,9 @@
 ![춘식](https://user-images.githubusercontent.com/122425985/229136058-468e62e6-28b0-49b1-abac-27dc7b40c13b.gif)
+<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJ4ehyune&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 # 🐝 김재현(Jaehyun Kim)
 <br/>
+
 
 # 😆 Summary
 
@@ -29,4 +32,4 @@
 
 [![Naver Badge](https://img.shields.io/badge/Naver_email-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:niggaud@naver.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJ4ehyune&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
+                
