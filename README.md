@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fdecc8&height=300&section=header&text=Jaehyun's%20GitHub&fontSize=60&fontColor=032539)
 
-
-
 ![춘식](https://user-images.githubusercontent.com/122425985/229136058-468e62e6-28b0-49b1-abac-27dc7b40c13b.gif)
 
-<br/>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJ4ehyune&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 # 🐝 김재현(Jaehyun Kim)
-<br/>
-
+<br>
 
 # 😆 Summary
 
@@ -18,13 +15,13 @@
 -  ESFP
 -  노는 거, 먹는 거, 게임하는 거, 음악 듣는 거 좋아함
   
-<br/>
+<br>
 
 # :label: Level
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
 
-<br/>
+<br>
 
 # ⚒️Tech Stack⚒️
 
@@ -32,7 +29,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/i'm-starter-green"/>
 
-<br/>
+<br>
 
 # :calling: Social
 
