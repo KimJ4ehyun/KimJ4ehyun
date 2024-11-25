@@ -28,4 +28,4 @@
 
 # :calling: Social
 
-[![Naver Badge](https://img.shields.io/badge/Naver_email-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:niggaud@naver.com)
+[![Google Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Google&logoColor=white)](mailto:jaehyun158@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver_email-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:niggaud@naver.com)
