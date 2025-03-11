@@ -14,6 +14,8 @@
 - 2024.01 ~ 2024.12 삼성 청년 SW 아카데미 11기 수료 (Java)
 - 2018.03 ~ 2024.02 전자공학과 학사 졸업
 
+<br>
+
 # 🐝 Level
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
