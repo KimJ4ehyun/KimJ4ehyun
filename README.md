@@ -10,9 +10,13 @@
 - 2024.01 ~ 2024.12 삼성 청년 SW 아카데미(SSAFY) 11기 수료 (Java)
 - 2018.03 ~ 2024.02 전자공학과 학사 졸업
 
-# 🐝 Level
+# 📄 Certification
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
+- 정보처리기사 (2025)
+- SQLD (2025)
+- 리눅스 마스터 2급 (2025)
+- OPIC IH (2025)
+- 
 
 # ⚒️Tech Stack⚒️
 
@@ -25,12 +29,9 @@
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
 
-# 📄 Certification
+# 🐝 Level
 
-- 정보처리기사 (2025)
-- SQLD (2025)
-- 리눅스 마스터 2급 (2025)
-- OPIC IH (2025)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
 
 # :calling: Social
 
