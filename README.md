@@ -6,7 +6,7 @@
 
 # 🎓 Education
 
-- 2025.02 ~ 현재 SK AI Leader Academy(SKALA) 1기 수료 (AI/Cloud/Data)
+- 2025.02 ~ 2025.07 SK AI Leader Academy(SKALA) 1기 수료 (AI/Cloud/Data)
 - 2024.01 ~ 2024.12 삼성 청년 SW 아카데미(SSAFY) 11기 수료 (Java)
 - 2018.03 ~ 2024.02 전자공학과 학사 졸업
 
